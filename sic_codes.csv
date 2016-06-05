@@ -1,0 +1,1500 @@
+SIC,Description
+100,Agricultural Production Crops
+110,Cash Grains
+111,Wheat
+112,Rice
+115,Corn
+116,Soybeans
+119,Cash Grains
+130,Field Crops
+131,Cotton
+132,Tobacco
+133,Sugarcane and Sugar Beets
+134,Irish Potatoes
+139,Field Crops
+160,Vegetables And Melons
+161,Vegetables and Melons
+170,Fruits And Tree Nuts
+171,Berry Crops
+172,Grapes
+173,Tree Nuts
+174,Citrus Fruits
+175,Deciduous Tree Fruits
+179,Fruits and Tree Nuts
+180,Horticultural Specialties
+181,Ornamental Floriculture and Nursery Products
+182,Food Crops Grown Under Cover
+190,General Farms
+191,General Farms
+200,Agriculture production livestock and animal specialties
+210,Livestock
+211,Beef Cattle Feedlots
+212,Beef Cattle
+213,Hogs
+214,Sheep and Goats
+219,General Livestock
+240,Dairy Farms
+241,Dairy Farms
+250,Poultry And Eggs
+251,Broiler
+252,Chicken Eggs
+253,Turkeys and Turkey Eggs
+254,Poultry Hatcheries
+259,Poultry and Eggs
+270,Animal Specialties
+271,Fur-Bearing Animals and Rabbits
+272,Horses and Other Equines
+273,Animal Aquaculture
+279,Animal Specialties
+290,General Farms
+291,General Farms
+700,Agricultural Services
+710,Soil Preparation Services
+711,Soil Preparation Services
+720,Crop Services
+721,Crop Planting
+722,Crop Harvesting
+723,Crop Preparation Services for Market
+724,Cotton Ginning
+740,Veterinary Services
+741,Veterinary Services for Livestock
+742,Veterinary Services for Animal Specialties
+750,Animal Services
+751,Livestock Services
+752,Animal Specialty Services
+760,Farm Labor And Management Services
+761,Farm Labor Contractors and Crew Leaders
+762,Farm Management Services
+780,Landscape And Horticultural Services
+781,Landscape Counseling and Planning
+782,Lawn and Garden Services
+783,Ornamental Shrub and Tree Services
+800,Forestry
+810,Timber Tracts
+811,Timber Tracts
+830,Forest Nurseries And Gathering Of Forest
+831,Forest Nurseries and Gathering of Forest Products
+850,Forestry Services
+851,Forestry Services
+900,Fishing
+910,Commercial Fishing
+912,Finfish
+913,Shellfish
+919,Miscellaneous Marine Products
+920,Fish Hatcheries And Preserves
+921,Fish Hatcheries and Preserves
+970,Hunting And Trapping
+971,Hunting and Trapping
+1000,Metal Mining
+1010,Iron Ores
+1011,Iron Ores
+1020,Copper Ores
+1021,Copper Ores
+1030,Lead And Zinc Ores
+1031,Lead and Zinc Ores
+1040,Gold And Silver Ores
+1041,Gold Ores
+1044,Silver Ores
+1060,Ferroalloy Ores
+1061,Ferroalloy Ores
+1080,Metal Mining Services
+1081,Metal Mining Services
+1090,Miscellaneous Metal Ores
+1094,Uranium-Radium-Vanadium Ores
+1099,Miscellaneous Metal Ores
+1200,Coal Mining
+1220,Bituminous Coal And Lignite Mining
+1221,Bituminous Coal and Lignite Surface Mining
+1222,Bituminous Coal Underground Mining
+1230,Anthracite Mining
+1231,Anthracite Mining
+1240,Coal Mining Services
+1241,Coal Mining Services
+1300,Oil And Gas Extraction
+1310,Crude Petroleum And Natural Gas
+1311,Crude Petroleum and Natural Gas
+1320,Natural Gas Liquids
+1321,Natural Gas Liquids
+1380,Oil And Gas Field Services
+1381,Drilling Oil and Gas Wells
+1382,Oil and Gas Field Exploration Services
+1389,Oil and Gas Field Services
+1400,Mining And Quarrying Of Nonmetallic Minerals
+1410,Dimension Stone
+1411,Dimension Stone
+1420,Crushed And Broken Stone
+1422,Crushed and Broken Limestone
+1423,Crushed and Broken Granite
+1429,Crushed and Broken Stone
+1440,Sand And Gravel
+1442,Construction Sand and Gravel
+1446,Industrial Sand
+1450,Clay
+1455,Kaolin and Ball Clay
+1459,Clay
+1470,Chemical And Fertilizer Mineral Mining
+1474,Potash
+1475,Phosphate Rock
+1479,Chemical and Fertilizer Mineral Mining
+1480,Nonmetallic Minerals Services
+1481,Nonmetallic Minerals Services
+1490,Miscellaneous Nonmetallic Minerals
+1499,Miscellaneous Nonmetallic Minerals
+1500,Building Construction General Contractors And Operative Builders
+1520,General Building Contractors-residential
+1521,General Contractors-Single-Family Houses
+1522,General Contractors-Residential Buildings
+1530,Operative Builders
+1531,Operative Builders
+1540,General Building Contractors-nonresidential
+1541,General Contractors-Industrial Buildings and Warehouses
+1542,General Contractors-Nonresidential Buildings
+1600,Heavy Construction Other Than Building Construction Contractors
+1610,Highway And Street Construction
+1611,Highway and Street Construction
+1620,Heavy Construction
+1622,Bridge
+1623,Water
+1629,Heavy Construction
+1700,Construction Special Trade Contractors
+1710,Plumbing
+1711,Plumbing
+1720,Painting And Paper Hanging
+1721,Painting and Paper Hanging
+1730,Electrical Work
+1731,Electrical Work
+1740,Masonry
+1741,Masonry
+1742,Plastering
+1743,Terrazzo
+1750,Carpentry And Floor Work
+1751,Carpentry Work
+1752,Floor Laying and Other Floor Work
+1760,Roofing
+1761,Roofing
+1770,Concrete Work
+1771,Concrete Work
+1780,Water Well Drilling
+1781,Water Well Drilling
+1790,Miscellaneous Special Trade Contractors
+1791,Structural Steel Erection
+1793,Glass and Glazing Work
+1794,Excavation Work
+1795,Wrecking and Demolition Work
+1796,Installation or Erection of Building Equipment
+1799,Special Trade Contractors
+2000,Food And Kindred Products
+2010,Meat Products
+2011,Meat Packing Plants
+2013,Sausages and Other Prepared Meat Products
+2015,Poultry Slaughtering and Processing
+2020,Dairy Products
+2021,Creamery Butter
+2022,Natural
+2023,Dry
+2024,Ice Cream and Frozen Desserts
+2026,Fluid Milk
+2030,Canned
+2032,Canned Specialties
+2033,Canned Fruits
+2034,Dried and Dehydrated Fruits
+2035,Pickled Fruits and Vegetables
+2037,Frozen Fruits
+2038,Frozen Specialties
+2040,Grain Mill Products
+2041,Flour and Other Grain Mill Products
+2043,Cereal Breakfast Foods
+2044,Rice Milling
+2045,Prepared Flour Mixes and Doughs
+2046,Wet Corn Milling
+2047,Dog and Cat Food
+2048,Prepared Feed and Feed Ingredients for Animals and Fowls
+2050,Bakery Products
+2051,Bread and Other Bakery Products
+2052,Cookies and Crackers
+2053,Frozen Bakery Products
+2060,Sugar And Confectionery Products
+2061,Cane Sugar
+2062,Cane Sugar Refining
+2063,Beet Sugar
+2064,Candy and Other Confectionery Products
+2066,Chocolate and Cocoa Products
+2067,Chewing Gum
+2068,Salted and Roasted Nuts and Seeds
+2070,Fats And Oils
+2074,Cottonseed Oil Mills
+2075,Soybean Oil Mills
+2076,Vegetable Oil Mills
+2077,Animal and Marine Fats and Oils
+2079,Shortening
+2080,Beverages
+2082,Malt Beverages
+2083,Malt
+2084,Wines
+2085,Distilled and Blended Liquors
+2086,Bottled and Canned Soft Drinks and Carbonated Waters
+2087,Flavoring Extracts and Flavoring Syrups
+2090,Miscellaneous Food Preparations And Kindred
+2091,Canned and Cured Fish and Seafoods
+2092,Prepared Fresh or Frozen Fish and Seafoods
+2095,Roasted Coffee
+2096,Potato Chips
+2097,Manufactured Ice
+2098,Macaroni
+2099,Food Preparations
+2100,Tobacco Products
+2110,Cigarettes
+2111,Cigarettes
+2120,Cigars
+2121,Cigars
+2130,Chewing And Smoking Tobacco And Snuff
+2131,Chewing and Smoking Tobacco and Snuff
+2140,Tobacco Stemming And Redrying
+2141,Tobacco Stemming and Redrying
+2200,Textile Mill Products
+2210,Broadwoven Fabric Mills
+2211,Broadwoven Fabric Mills
+2220,Broadwoven Fabric Mills
+2221,Broadwoven Fabric Mills
+2230,Broadwoven Fabric Mills
+2231,Broadwoven Fabric Mills
+2240,Narrow Fabric And Other Smallwares Mills
+2241,Narrow Fabric and Other Smallware Mills: Cotton
+2250,Knitting Mills
+2251,Women's Full-Length and Knee-Length Hosiery
+2252,Hosiery
+2253,Knit Outerwear Mills
+2254,Knit Underwear and Nightwear Mills
+2257,Weft Knit Fabric Mills
+2258,Lace and Warp Knit Fabric Mills
+2259,Knitting Mills
+2260,Dyeing And Finishing Textiles
+2261,Finishers of Broadwoven Fabrics of Cotton
+2262,Finishers of Broadwoven Fabrics of Manmade Fiber and Silk
+2269,Finishers of Textiles
+2270,Carpets And Rugs
+2273,Carpets and Rugs
+2280,Yarn And Thread Mills
+2281,Yarn Spinning Mills
+2282,Yarn Texturizing
+2284,Thread Mills
+2290,Miscellaneous Textile Goods
+2295,Coated Fabrics
+2296,Tire Cord and Fabrics
+2297,Non-woven Fabrics
+2298,Cordage and Twine
+2299,Textile goods
+2300,Apparel And Other Finished Products Made From Fabrics And Similar Materials
+2310,Men&#39;s And Boys&#39; Suits
+2311,Men's and Boys' Suits
+2320,Men&#39;s And Boys&#39; Furnishings
+2321,Men's and Boys' Shirts
+2322,Men's and Boys' Underwear and Nightwear
+2323,Men's and Boys' Neckwear
+2325,Men's and Boys' Separate Trousers and Slacks
+2326,Men's and Boys' Work Clothing
+2329,Men's and Boys' Clothing
+2330,Women&#39;s
+2331,Women's
+2335,Women's
+2337,Women's
+2339,Women's
+2340,Women&#39;s
+2341,Women's
+2342,Brassieres
+2350,Hats
+2353,Hats
+2360,Girls&#39;
+2361,Girls'
+2369,Girls'
+2370,Fur Goods
+2371,Fur Goods
+2380,Miscellaneous Apparel And Accessories
+2381,Dress and Work Gloves
+2384,Robes and Dressing Gowns
+2385,Waterproof Outerwear
+2386,Leather and Sheep-Lined Clothing
+2387,Apparel belts
+2389,Apparel and Accessories
+2390,Miscellaneous Fabricated Textile Products
+2391,Curtains and Draperies
+2392,House furnishing
+2393,Textile Bags
+2394,Canvas and Related Products
+2395,Pleating
+2396,Automotive Trimmings
+2397,Schiffli Machine Embroideries
+2399,Fabricated Textile Products
+2400,Lumber And Wood Products
+2410,Logging
+2411,Logging
+2420,Sawmills And Planing Mills
+2421,Sawmills and Planing Mills
+2426,Hardwood Dimension and Flooring Mills
+2429,Special Product Sawmills
+2430,Millwork
+2431,Millwork
+2434,Wood Kitchen Cabinets
+2435,Hardwood Veneer and Plywood
+2436,Softwood Veneer and Plywood
+2439,Structural Wood Members
+2440,Wood Containers
+2441,Nailed and Lock Corner Wood Boxes and Shook
+2448,Wood Pallets and Skids
+2449,Wood Containers
+2450,Wood Buildings And Mobile Homes
+2451,Mobile Homes
+2452,Prefabricated Wood Buildings and Components
+2490,Miscellaneous Wood Products
+2491,Wood Preserving
+2493,Reconstituted Wood Products
+2499,Wood Products
+2500,Furniture And Fixtures
+2510,Household Furniture
+2511,Wood Household Furniture
+2512,Wood Household Furniture
+2514,Metal Household Furniture
+2515,Mattresses
+2517,Wood Television
+2519,Household Furniture
+2520,Office Furniture
+2521,Wood Office Furniture
+2522,Office Furniture
+2530,Public Building And Related Furniture
+2531,Public Building and Related Furniture
+2540,Partitions
+2541,Wood Office and Store Fixtures
+2542,Office and Store Fixtures
+2590,Miscellaneous Furniture And Fixtures
+2591,Drapery Hardware and Window Blinds and Shades
+2599,Furniture and Fixtures
+2600,Paper And Allied Products
+2610,Pulp Mills
+2611,Pulp Mills
+2620,Paper Mills
+2621,Paper Mills
+2630,Paperboard Mills
+2631,Paperboard Mills
+2650,Paperboard Containers And Boxes
+2652,Setup Paperboard Boxes
+2653,Corrugated and Solid Fiber Boxes
+2655,Fiber Cans
+2656,Sanitary Food Containers
+2657,Folding Paperboard Boxes
+2670,Converted Paper And Paperboard Products
+2671,Packaging Paper and Plastics Film
+2672,Coated and Laminated Paper
+2673,Plastics
+2674,Uncoated Paper and Multiwall Bags
+2675,Die-Cut Paper and Paperboard and Cardboard
+2676,Sanitary Paper Products
+2677,Envelopes
+2678,Stationery
+2679,Converted Paper and Paperboard Products
+2700,Printing
+2710,Newspapers
+2711,Newspapers: Publishing
+2720,Periodicals
+2721,Periodicals: Publishing
+2730,Books
+2731,Books: Publishing
+2732,Book Printing
+2740,Miscellaneous Publishing
+2741,Miscellaneous Publishing
+2750,Commercial Printing
+2752,Commercial Printing
+2754,Commercial Printing
+2759,Commercial Printing
+2760,Manifold Business Forms
+2761,Manifold Business Forms
+2770,Greeting Cards
+2771,Greeting Cards
+2780,Blankbooks
+2782,Blankbooks
+2789,Bookbinding and Related Work
+2790,Service Industries For The Printing Trade
+2791,Typesetting
+2796,Platemaking and Related Services
+2800,Chemicals And Allied Products
+2810,Industrial Inorganic Chemicals
+2812,Alkalies and Chlorine
+2813,Industrial Gases
+2816,Inorganic Pigments
+2819,Industrial Inorganic Chemicals
+2820,Plastics Materials And Synthetic Resins
+2821,Plastics Materials
+2822,Synthetic Rubber (Vulcanizable Elastomers)
+2823,Cellulosic Manmade Fibers
+2824,Manmade Organic Fibers
+2830,Drugs
+2833,Medicinal Chemicals and Botanical Products
+2834,Pharmaceutical Preparations
+2835,In Vitro and In Vivo Diagnostic Substances
+2836,Biological Products
+2840,Soap
+2841,Soap and Other Detergents
+2842,Specialty Cleaning
+2843,Surface Active Agents
+2844,Perfumes
+2850,Paints
+2851,Paints
+2860,Industrial Organic Chemicals
+2861,Gum and Wood Chemicals
+2865,Cyclic Organic Crudes and Intermediates
+2869,Industrial Organic Chemicals
+2870,Agricultural Chemicals
+2873,Nitrogenous Fertilizers
+2874,Phosphatic Fertilizers
+2875,Fertilizers
+2879,Pesticides and Agricultural Chemicals
+2890,Miscellaneous Chemical Products
+2891,Adhesives and Sealants
+2892,Explosives
+2893,Printing Ink
+2895,Carbon Black
+2899,Chemicals and Chemical Preparations
+2900,Petroleum Refining And Related Industries
+2910,Petroleum Refining
+2911,Petroleum Refining
+2950,Asphalt Paving And Roofing Materials
+2951,Asphalt Paving Mixtures and Blocks
+2952,Asphalt Felts and Coatings
+2990,Miscellaneous Products Of Petroleum And Coal
+2992,Lubricating Oils and Greases
+2999,Products of Petroleum and Coal
+3000,Rubber And Miscellaneous Plastics Products
+3010,Tires And Inner Tubes
+3011,Tires and Inner Tubes
+3020,Rubber And Plastics Footwear
+3021,Rubber and Plastics Footwear
+3050,Gaskets
+3052,Rubber and Plastics Hose and Belting
+3053,Gaskets
+3060,Fabricated Rubber Products
+3061,Molded
+3069,Fabricated Rubber Products
+3080,Miscellaneous Plastics Products
+3081,Unsupported Plastics Film and Sheet
+3082,Unsupported Plastics Profile Shapes
+3083,Laminated Plastics Plate
+3084,Plastics Pipe
+3085,Plastics Bottles
+3086,Plastics Foam Products
+3087,Custom Compounding of Purchased Plastics Resins
+3088,Plastics Plumbing Fixtures
+3089,Plastics Products
+3100,Leather And Leather Products
+3110,Leather Tanning And Finishing
+3111,Leather Tanning and Finishing
+3130,Boot And Shoe Cut Stock And Findings
+3131,Boot and Shoe Cut Stock and Findings
+3140,Footwear
+3142,House Slippers
+3143,Men's Footwear
+3144,Women's Footwear
+3149,Footwear
+3150,Leather Gloves And Mittens
+3151,Leather Gloves and Mittens
+3160,Luggage
+3161,Luggage
+3170,Handbags And Other Personal Leather Goods
+3171,Women's Handbags and Purses
+3172,Personal Leather Goods
+3190,Leather Goods
+3199,Leather Goods
+3200,Stone
+3210,Flat Glass
+3211,Flat Glass
+3220,Glass And Glassware
+3221,Glass Containers
+3229,Pressed and Blown Glass and Glassware
+3230,Glass Products
+3231,Glass Products
+3240,Cement
+3241,Cement
+3250,Structural Clay Products
+3251,Brick and Structural Clay Tile
+3253,Ceramic Wall and Floor Tile
+3255,Clay Refractories
+3259,Structural Clay Products
+3260,Pottery And Related Products
+3261,Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories
+3262,Vitreous China Table and Kitchen Articles
+3263,Fine Earthenware (Whiteware) Table and Kitchen Articles
+3264,Porcelain Electrical Supplies
+3269,Pottery Products
+3270,Concrete
+3271,Concrete Block and Brick
+3272,Concrete Products
+3273,Ready-Mixed Concrete
+3274,Lime
+3275,Gypsum Products
+3280,Cut Stone And Stone Products
+3281,Cut Stone and Stone Products
+3290,Abrasive
+3291,Abrasive Products
+3292,Asbestos Products
+3295,Minerals and Earths
+3296,Mineral Wool
+3297,Nonclay Refractories
+3299,Nonmetallic Mineral Products
+3300,Primary Metal Industries
+3310,Steel Works
+3312,Steel Works
+3313,Electrometallurgical Products
+3315,Steel Wiredrawing and Steel Nails and Spikes
+3316,Cold-Rolled Steel Sheet
+3317,Steel Pipe and Tubes
+3320,Iron And Steel Foundries
+3321,Gray and Ductile Iron Foundries
+3322,Malleable Iron Foundries
+3324,Steel Investment Foundries
+3325,Steel Foundries
+3330,Primary Smelting And Refining Of Nonferrous
+3331,Primary Smelting and Refining of Copper
+3334,Primary Production of Aluminum
+3339,Primary Smelting and Refining of Nonferrous Metals
+3340,Secondary Smelting And Refining Of Nonferrous
+3341,Secondary Smelting and Refining of Nonferrous Metals
+3350,Rolling
+3351,Rolling
+3353,Aluminum Sheet
+3354,Aluminum Extruded Products
+3355,Aluminum Rolling and Drawing
+3356,Rolling
+3357,Drawing and Insulating of Nonferrous Wire
+3360,Nonferrous Foundries (castings)
+3363,Aluminum Die-Castings
+3364,Nonferrous Die-Castings
+3365,Aluminum Foundries
+3366,Copper Foundries
+3369,Nonferrous Foundries
+3390,Miscellaneous Primary Metal Products
+3398,Metal Heat Treating
+3399,Primary Metal Products
+3400,Fabricated Metal Products
+3410,Metal Cans And Shipping Containers
+3411,Metal Cans
+3412,Metal Shipping Barrels
+3420,Cutlery
+3421,Cutlery
+3423,Hand and Edge Tools
+3425,Saw Blades and Handsaws
+3429,Hardware
+3430,Heating Equipment
+3431,Enameled Iron and Metal Sanitary Ware
+3432,Plumbing Fixture Fittings and Trim
+3433,Heating Equipment
+3440,Fabricated Structural Metal Products
+3441,Fabricated Structural Metal
+3442,Metal Doors
+3443,Fabricated Plate Work (Boiler Shops)
+3444,Sheet Metal Work
+3446,Architectural and Ornamental Metal Work
+3448,Prefabricated Metal Buildings and Components
+3449,Miscellaneous Structural Metal Work
+3450,Screw Machine Products
+3451,Screw Machine Products
+3452,Bolts
+3460,Metal Forgings And Stampings
+3462,Iron and Steel Forgings
+3463,Nonferrous Forgings
+3465,Automotive Stampings
+3466,Crowns and Closures
+3469,Metal Stampings
+3470,Coating
+3471,Electroplating
+3479,Coating
+3480,Ordnance And Accessories
+3482,Small Arms Ammunition
+3483,Ammunition
+3484,Small Arms
+3489,Ordnance and Accessories
+3490,Miscellaneous Fabricated Metal Products
+3491,Industrial Valves
+3492,Fluid Power Valves and Hose Fittings
+3493,Steel Springs
+3494,Valves and Pipe Fittings
+3495,Wire Springs
+3496,Miscellaneous Fabricated Wire Products
+3497,Metal Foil and Leaf
+3498,Fabricated Pipe and Pipe Fittings
+3499,Fabricated Metal Products
+3500,Industrial And Commercial Machinery And Computer Equipment
+3510,Engines And Turbines
+3511,Steam
+3519,Internal Combustion Engines
+3520,Farm And Garden Machinery And Equipment
+3523,Farm Machinery and Equipment
+3524,Lawn and Garden Tractors and Home Lawn and Garden Equipment
+3530,Construction
+3531,Construction Machinery and Equipment
+3532,Mining Machinery and Equipment
+3533,Oil and Gas Field Machinery and Equipment
+3534,Elevators and Moving Stairways
+3535,Conveyors and Conveying Equipment
+3536,Overhead Traveling Cranes
+3537,Industrial Trucks
+3540,Metalworking Machinery And Equipment
+3541,Machine Tools
+3542,Machine Tools
+3543,Industrial Patterns
+3544,Special Dies and Tools
+3545,Cutting Tools
+3546,Power-Driven Handtools
+3547,Rolling Mill Machinery and Equipment
+3548,Electric and Gas Welding and Soldering Equipment
+3549,Metalworking Machinery
+3550,Special Industry Machinery
+3552,Textile Machinery
+3553,Woodworking Machinery
+3554,Paper Industries Machinery
+3555,Printing Trades Machinery and Equipment
+3556,Food Products Machinery
+3559,Special Industry Machinery
+3560,General Industrial Machinery And Equipment
+3561,Pumps and Pumping Equipment
+3562,Ball and Roller Bearings
+3563,Air and Gas Compressors
+3564,Industrial and Commercial Fans and Blowers and Air Purification Equipment
+3565,Packaging Machinery
+3566,Speed Changers
+3567,Industrial Process Furnaces and Ovens
+3568,Mechanical Power Transmission Equipment
+3569,General Industrial Machinery and Equipment
+3570,Computer And Office Equipment
+3571,Electronic Computers
+3572,Computer Storage Devices
+3575,Computer Terminals
+3577,Computer Peripheral Equipment
+3578,Calculating and Accounting Machines
+3579,Office Machines
+3580,Refrigeration And Service Industry Machinery
+3581,Automatic Vending Machines
+3582,Commercial Laundry
+3585,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment
+3586,Measuring and Dispensing Pumps
+3589,Service Industry Machinery
+3590,Miscellaneous Industrial And Commercial
+3592,Carburetors
+3593,Fluid Power Cylinders and Actuators
+3594,Fluid Power Pumps and Motors
+3596,Scales and Balances
+3599,Industrial and Commercial Machinery and Equipment
+3600,Electronic And Other Electrical Equipment And Components
+3610,Electric Transmission And Distribution Equipment
+3612,Power
+3613,Switchgear and Switchboard Apparatus
+3620,Electrical Industrial Apparatus
+3621,Motors and Generators
+3624,Carbon and Graphite Products
+3625,Relays and Industrial Controls
+3629,Electrical Industrial Apparatus
+3630,Household Appliances
+3631,Household Cooking Equipment
+3632,Household Refrigerators and HOme and Farm Freezers
+3633,Household Laundry Equipment
+3634,Electric Housewares and Fans
+3635,Household Vacuum Cleaners
+3639,Household Appliances
+3640,Electric Lighting And Wiring Equipment
+3641,Electric Lamp Bulbs and Tubes
+3643,Current-Carrying Wiring Devices
+3644,Noncurrent-Carrying Wiring Devices
+3645,Residential Electric Lighting Fixtures
+3646,Commercial
+3647,Vehicular Lighting Equipment
+3648,Lighting Equipment
+3650,Household Audio And Video Equipment
+3651,Household Audio and Video Equipment
+3652,Phonograph Records and Prerecorded Audio Tapes and Disks
+3660,Communications Equipment
+3661,Telephone and Telegraph Apparatus
+3663,Radio and Television Broadcasting and Communications Equipment
+3669,Communications Equipment
+3670,Electronic Components And Accessories
+3671,Electron Tubes
+3672,Printed Circuit Boards
+3674,Semiconductors and Related Devices
+3675,Electronic Capacitors
+3676,Electronic Resistors
+3677,Electronic Coils
+3678,Electronic Connectors
+3679,Electronic Components
+3690,Miscellaneous Electrical Machinery
+3691,Storage Batteries
+3692,Primary Batteries
+3694,Electrical Equipment for Internal Combustion Engines
+3695,Magnetic And Optical Recording Media
+3699,Electrical Machinery
+3700,Transportation Equipment
+3710,Motor Vehicles And Motor Vehicle Equipment
+3711,Motor Vehicles and Passenger Car Bodies
+3713,Truck and Bus Bodies
+3714,Motor Vehicle Parts and Accessories
+3715,Truck Trailers
+3716,Motor Homes
+3720,Aircraft And Parts
+3721,Aircraft
+3724,Aircraft Engines and Engine Parts
+3728,Aircraft Parts and Auxiliary Equipment
+3730,Ship And Boat Building And Repairing
+3731,Ship Building and Repairing
+3732,Boat Building and Repairing
+3740,Railroad Equipment
+3743,Railroad Equipment
+3750,Motorcycles
+3751,Motorcycles
+3760,Guided Missiles And Space Vehicles And Parts
+3761,Guided Missiles and Space Vehicles
+3764,Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts
+3769,Guided Missile Space Vehicle Parts and Auxiliary Equipment
+3790,Miscellaneous Transportation Equipment
+3792,Travel Trailers and Campers
+3795,Tanks and Tank Components
+3799,Transportation Equipment
+3800,Measuring
+3820,Laboratory Apparatus And Analytical
+3821,Laboratory Apparatus and Furniture
+3822,Automatic Controls for Regulating Residential and Commercial Environments and Appliances
+3823,Industrial Instruments for Measurement
+3824,Totalizing Fluid Meters and Counting Devices
+3825,Instruments for Measuring and Testing of Electricity and Electrical Signals
+3826,Laboratory Analytical Instruments
+3827,Optical Instruments and Lenses
+3829,Measuring and Controlling Devices
+3840,Surgical
+3841,Surgical and Medical Instruments and Apparatus
+3842,Orthopedic
+3843,Dental Equipment and Supplies
+3844,X-Ray Apparatus and Tubes and Related Irradiation Apparatus
+3845,Electromedical and Electrotherapeutic Apparatus
+3850,Ophthalmic Goods
+3851,Ophthalmic Goods
+3860,Photographic Equipment And Supplies
+3861,Photographic Equipment and Supplies
+3870,Watches
+3873,Watches
+3900,Miscellaneous Manufacturing Industries
+3910,Jewelry
+3911,Jewelry
+3914,Silverware
+3915,Jewelers' Findings and Materials
+3930,Musical Instruments
+3931,Musical Instruments
+3940,Dolls
+3942,Dolls and Stuffed Toys
+3944,Games
+3949,Sporting and Athletic Goods
+3950,Pens
+3951,Pens
+3952,Lead Pencils
+3953,Marking Devices
+3955,Carbon Paper and Inked Ribbons
+3960,Costume Jewelry
+3961,Costume Jewelry and Costume Novelties
+3965,Fasteners
+3990,Miscellaneous Manufacturing Industries
+3991,Brooms and Brushes
+3993,Signs and Advertising Specialties
+3995,Burial Caskets
+3996,Linoleum
+3999,Manufacturing Industries
+4000,Railroad Transportation
+4010,Railroads
+4011,Railroads
+4013,Railroad Switching and Terminal Establishments
+4100,Local And Suburban Transit And Interurban Highway Passenger Transportation
+4110,Local And Suburban Passenger Transportation
+4111,Local and Suburban Transit
+4119,Local Passenger Transportation
+4120,Taxicabs
+4121,Taxicabs
+4130,Intercity And Rural Bus Transportation
+4131,Intercity and Rural Bus Transportation
+4140,Bus Charter Service
+4141,Local Bus Charter Service
+4142,Bus Charter Service
+4150,School Buses
+4151,School Buses
+4170,Terminal And Service Facilities For Motor Vehicle
+4173,Terminal and Service Facilities for Motor Vehicle Passenger Transportation
+4200,Motor Freight Transportation And Warehousing
+4210,Trucking And Courier Services
+4212,Local Trucking Without Storage
+4213,Trucking
+4214,Local Trucking With Storage
+4215,Courier Services
+4220,Public Warehousing And Storage
+4221,Farm Product Warehousing and Storage
+4222,Refrigerated Warehousing and Storage
+4225,General Warehousing and Storage
+4226,Special Warehousing and Storage
+4230,Terminal And Joint Terminal Maintenance
+4231,Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation
+4300,United States Postal Service
+4310,United States Postal Service
+4311,United States Postal Service
+4400,Water Transportation
+4410,Deep Sea Foreign Transportation Of Freight
+4412,Deep Sea Foreign Transportation of Freight
+4420,Deep Sea Domestic Transportation Of Freight
+4424,Deep Sea Domestic Transportation of Freight
+4430,Freight Transportation On The Great Lakes-st.
+4432,Freight Transportation on the Great Lakes-St. Lawrence Seaway
+4440,Water Transportation Of Freight
+4449,Water Transportation of Freight
+4480,Water Transportation Of Passengers
+4481,Deep Sea Transportation of Passengers
+4482,Ferries
+4489,Water Transportation of Passengers
+4490,Services Incidental To Water Transportation
+4491,Marine Cargo Handling
+4492,Towing and Tugboat Services
+4493,Marinas
+4499,Water Transportation Services
+4500,Transportation By Air
+4510,Air Transportation
+4512,Air Transportation
+4513,Air Courier Services
+4520,Air Transportation
+4522,Air Transportation
+4580,Airports
+4581,Airports
+4600,Pipelines
+4610,Pipelines
+4612,Crude Petroleum Pipelines
+4613,Refined Petroleum Pipelines
+4619,Pipelines
+4700,Transportation Services
+4720,Arrangement Of Passenger Transportation
+4724,Travel Agencies
+4725,Tour Operators
+4729,Arrangement of Passenger Transportation
+4730,Arrangement Of Transportation Of Freight And Cargo
+4731,Arrangement of Transportation of Freight and Cargo
+4740,Rental Of Railroad Cars
+4741,Rental of Railroad Cars
+4780,Miscellaneous Services Incidental To Transportation
+4783,Packing and Crating
+4785,Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation
+4789,Transportation Services
+4800,Communications
+4810,Telephone Communications
+4812,Radiotelephone Communications
+4813,Telephone Communications
+4820,Telegraph And Other Message Communications
+4822,Telegraph and Other Message Communications
+4830,Radio And Television Broadcasting Stations
+4832,Radio Broadcasting Stations
+4833,Television Broadcasting Stations
+4840,Cable And Other Pay Television Services
+4841,Cable and Other Pay Television Services
+4890,Communications Services
+4899,Communications Services
+4900,Electric
+4910,Electric Services
+4911,Electric Services
+4920,Gas Production And Distribution
+4922,Natural Gas Transmission
+4923,Natural Gas Transmission and Distribution
+4924,Natural Gas Distribution
+4925,Mixed
+4930,Combination Electric And Gas
+4931,Electric and Other Services Combined
+4932,Gas and Other Services Combined
+4939,Combination Utilities
+4940,Water Supply
+4941,Water Supply
+4950,Sanitary Services
+4952,Sewerage Systems
+4953,Refuse Systems
+4959,Sanitary Services
+4960,Steam And Air-conditioning Supply
+4961,Steam and Air-Conditioning Supply
+4970,Irrigation Systems
+4971,Irrigation Systems
+5000,Wholesale Trade-durable Goods
+5010,Motor Vehicles And Motor Vehicle Parts And Supplies
+5012,Automobiles and Other Motor Vehicles
+5013,Motor Vehicle Supplies and New Parts
+5014,Tires and Tubes
+5015,Motor Vehicle Parts
+5020,Furniture And Home Furnishings
+5021,Furniture
+5023,Home furnishings
+5030,Lumber And Other Construction Materials
+5031,Lumber
+5032,Brick
+5033,Roofing
+5039,Construction Materials
+5040,Professional And Commercial Equipment And Supplies
+5043,Photographic Equipment and Supplies
+5044,Office Equipment
+5045,Computers and Computer Peripheral Equipment and Software
+5046,Commercial Equipment
+5047,Medical
+5048,Ophthalmic Goods
+5049,Professional Equipment and Supplies
+5050,Metals And Minerals
+5051,Metals Service Centers and Offices
+5052,Coal and Other Minerals and Ores
+5060,Electrical Goods
+5063,Electrical Apparatus and Equipment Wiring Supplies
+5064,Electrical Appliances
+5065,Electronic Parts and Equipment
+5070,Hardware
+5072,Hardware
+5074,Plumbing and Heating Equipment and Supplies (Hydronics)
+5075,Warm Air Heating and Air-Conditioning Equipment and Supplies
+5078,Refrigeration Equipment and Supplies
+5080,Machinery
+5082,Construction and Mining (Except Petroleum) Machinery and Equipment
+5083,Farm and Garden Machinery and Equipment
+5084,Industrial Machinery and Equipment
+5085,Industrial Supplies
+5087,Service Establishment Equipment and Supplies
+5088,Transportation Equipment and Supplies
+5090,Miscellaneous Durable Goods
+5091,Sporting and Recreational Goods and Supplies
+5092,Toys and Hobby Goods and Supplies
+5093,Scrap and Waste Materials
+5094,Jewelry
+5099,Durable Goods
+5100,Wholesale Trade-non-durable Goods
+5110,Paper And Paper Products
+5111,Printing and Writing Paper
+5112,Stationery and Office Supplies
+5113,Industrial and Personal Service Paper
+5120,Drugs
+5122,Drugs
+5130,Apparel
+5131,Piece Goods
+5136,Men's and Boy's Clothing and Furnishings
+5137,Women's
+5139,Footwear
+5140,Groceries And Related Products
+5141,Groceries
+5142,Packaged Frozen Foods
+5143,Dairy Products
+5144,Poultry and Poultry Products
+5145,Confectionery
+5146,Fish and Seafoods
+5147,Meats and Meat Products
+5148,Fresh Fruits and Vegetables
+5149,Groceries and Related Products
+5150,Farm-product Raw Materials
+5153,Grain and Field Beans
+5154,Livestock
+5159,Farm-Product Raw Materials
+5160,Chemicals And Allied Products
+5162,Plastics Materials and Basic Forms and Shapes
+5169,Chemicals and Allied Products
+5170,Petroleum And Petroleum Products
+5171,Petroleum Bulk stations and Terminals
+5172,Petroleum and Petroleum Products Wholesalers
+5180,Beer
+5181,Beer and Ale
+5182,Wine and Distilled Alcoholic Beverages
+5190,Miscellaneous Non-durable Goods
+5191,Farm Supplies
+5192,Books
+5193,Flowers
+5194,Tobacco and Tobacco Products
+5198,Paints
+5199,Nondurable Goods
+5200,Building Materials
+5210,Lumber And Other Building Materials Dealers
+5211,Lumber and Other Building Materials Dealers
+5230,Paint
+5231,Paint
+5250,Hardware Stores
+5251,Hardware Stores
+5260,Retail Nurseries
+5261,Retail Nurseries
+5270,Mobile Home Dealers
+5271,Mobile Home Dealers
+5300,General Merchandise Stores
+5310,Department Stores
+5311,Department Stores
+5330,Variety Stores
+5331,Variety Stores
+5390,Miscellaneous General Merchandise Stores
+5399,Miscellaneous General Merchandise Stores
+5400,Food Stores
+5410,Grocery Stores
+5411,Grocery Stores
+5420,Meat And Fish (seafood) Markets
+5421,Meat and Fish (Seafood) Markets
+5430,Fruit And Vegetable Markets
+5431,Fruit and Vegetable Markets
+5440,Candy
+5441,Candy
+5450,Dairy Products Stores
+5451,Dairy Products Stores
+5460,Retail Bakeries
+5461,Retail Bakeries
+5490,Miscellaneous Food Stores
+5499,Miscellaneous Food Stores
+5500,Automotive Dealers And Gasoline Service Stations
+5510,Motor Vehicle Dealers (new And Used)
+5511,Motor Vehicle Dealers (New and Used)
+5520,Motor Vehicle Dealers (used Only)
+5521,Motor Vehicle Dealers (Used Only)
+5530,Auto And Home Supply Stores
+5531,Auto and Home Supply Stores
+5540,Gasoline Service Stations
+5541,Gasoline Service Stations
+5550,Boat Dealers
+5551,Boat Dealers
+5560,Recreational Vehicle Dealers
+5561,Recreational Vehicle Dealers
+5570,Motorcycle Dealers
+5571,Motorcycle Dealers
+5590,Automotive Dealers
+5599,Automotive Dealers
+5600,Apparel And Accessory Stores
+5610,Men&#39;s And Boys&#39; Clothing And Accessory Stores
+5611,Men's and Boys' Clothing and Accessory Stores
+5620,Women&#39;s Clothing Stores
+5621,Women's Clothing Stores
+5630,Women&#39;s Accessory And Specialty Stores
+5632,Women's Accessory and Specialty Stores
+5640,Children&#39;s And Infants&#39; Wear Stores
+5641,Children's and Infants' Wear Stores
+5650,Family Clothing Stores
+5651,Family Clothing Stores
+5660,Shoe Stores
+5661,Shoe Stores
+5690,Miscellaneous Apparel And Accessory Stores
+5699,Miscellaneous Apparel and Accessory Stores
+5700,Home Furniture
+5710,Home Furniture And Furnishings Stores
+5712,Furniture Stores
+5713,Floor Covering Stores
+5714,Drapery
+5719,Miscellaneous home furnishings Stores
+5720,Household Appliance Stores
+5722,Household Appliance Stores
+5730,Radio
+5731,Radio
+5734,Computer and Computer Software Stores
+5735,Record and Prerecorded Tape Stores
+5736,Musical Instrument Stores
+5800,Eating And Drinking Places
+5810,Eating And Drinking Places
+5812,Eating Places
+5813,Drinking Places (alcoholic Beverages)
+5900,Miscellaneous Retail
+5910,Drug Stores And Proprietary Stores
+5912,Drug Stores and Proprietary Stores
+5920,Liquor Stores
+5921,Liquor Stores
+5930,Used Merchandise Stores
+5932,Used Merchandise Stores
+5940,Miscellaneous Shopping Goods Stores
+5941,Sporting Goods Stores and Bicycle Shops
+5942,Book Stores
+5943,Stationery Stores
+5944,Jewelry Stores
+5945,Hobby
+5946,Camera and Photographic Supply Stores
+5947,Gift
+5948,Luggage and Leather Goods Stores
+5949,Sewing
+5960,Nonstore Retailers
+5961,Catalog and Mail-Order Houses
+5962,Automatic Merchandising Machine Operators
+5963,Direct Selling Establishments
+5980,Fuel Dealers
+5983,Fuel Oil Dealers
+5984,Liquefied Petroleum Gas (Bottled Gas) Dealers
+5989,Fuel Dealers
+5990,Retail Stores
+5992,Florists
+5993,Tobacco Stores and Stands
+5994,News Dealers and Newsstands
+5995,Optical Goods Stores
+5999,Miscellaneous Retail Stores
+6000,Depository Institutions
+6010,Central Reserve Depository Institutions
+6011,Federal Reserve Banks
+6019,Central Reserve Depository Institutions
+6020,Commercial Banks
+6021,National Commercial Banks
+6022,State Commercial Banks
+6029,Commercial Banks
+6030,Savings Institutions
+6035,Savings Institutions
+6036,Savings Institutions
+6060,Credit Unions
+6061,Credit Unions
+6062,Credit Unions
+6080,Foreign Banking And Branches And Agencies Of
+6081,Branches and Agencies of Foreign Banks
+6082,Foreign Trade and International Banking Institutions
+6090,Functions Related To Depository Banking
+6091,Non-deposit Trust Facilities
+6099,Functions Related to Depository Banking
+6100,Non-depository Credit Institutions
+6110,Federal And Federally-sponsored Credit Agencies
+6111,Federal and Federally-Sponsored Credit Agencies
+6140,Personal Credit Institutions
+6141,Personal Credit Institutions
+6150,Business Credit Institutions
+6153,Short-Term Business Credit Institutions
+6159,Miscellaneous business Credit Institutions
+6160,Mortgage Bankers And Brokers
+6162,Mortgage Bankers and Loan Correspondents
+6163,Loan Brokers
+6200,Security And Commodity Brokers
+6210,Security Brokers
+6211,Security Brokers
+6220,Commodity Contracts Brokers And Dealers
+6221,Commodity Contracts Brokers and Dealers
+6230,Security And Commodity Exchanges
+6231,Security and Commodity Exchanges
+6280,Services Allied With The Exchange Of Securities
+6282,Investment Advice
+6289,Services Allied With the Exchange of Securities or Commodities
+6300,Insurance Carriers
+6310,Life Insurance
+6311,Life Insurance
+6320,Accident And Health Insurance And Medical
+6321,Accident and Health Insurance
+6324,Hospital and Medical Service Plans
+6330,Fire
+6331,Fire
+6350,Surety Insurance
+6351,Surety Insurance
+6360,Title Insurance
+6361,Title Insurance
+6370,Pension
+6371,Pension
+6390,Insurance Carriers
+6399,Insurance Carriers
+6400,Insurance Agents
+6410,Insurance Agents
+6411,Insurance Agents
+6500,Real Estate
+6510,Real Estate Operators (except Developers) And Lessors
+6512,Operators of Nonresidential Buildings
+6513,Operators of Apartment Buildings
+6514,Operators of Dwellings Other Than Apartment Buildings
+6515,Operators of Residential Mobile Home Sites
+6517,Lessors of Railroad Property
+6519,Lessors of Real Property
+6530,Real Estate Agents And Managers
+6531,Real Estate Agents and Managers
+6540,Title Abstract Offices
+6541,Title Abstract Offices
+6550,Land Subdividers And Developers
+6552,Land Subdividers and Developers
+6553,Cemetery Subdividers and Developers
+6700,Holding And Other Investment Offices
+6710,Holding Offices
+6712,Offices of Bank Holding Companies
+6719,Offices of Holding Companies
+6720,Investment Offices
+6722,Management Investment Offices
+6726,Unit Investment Trusts
+6730,Trusts
+6732,Educational
+6733,Trusts
+6790,Miscellaneous Investing
+6792,Oil Royalty Traders
+6794,Patent Owners and Lessors
+6798,Real Estate Investment Trusts
+6799,Investors
+7000,Hotels
+7010,Hotels And Motels
+7011,Hotels and Motels
+7020,Rooming And Boarding Houses
+7021,Rooming and Boarding Houses
+7030,Camps And Recreational Vehicle Parks
+7032,Sporting and Recreational Camps
+7033,Recreational Vehicle Parks and Campsites
+7040,Organization Hotels And Lodging Houses
+7041,Organization Hotels and Lodging Houses
+7200,Personal Services
+7210,Laundry
+7211,Power Laundries
+7212,Garment Pressing
+7213,Linen Supply
+7215,Coin-Operated Laundries and Drycleaning
+7216,Drycleaning Plants
+7217,Carpet and Upholstery Cleaning
+7218,Industrial Launderers
+7219,Laundry and Garment Services
+7220,Photographic Studios
+7221,Photographic Studios
+7230,Beauty Shops
+7231,Beauty Shops
+7240,Barber Shops
+7241,Barber Shops
+7250,Shoe Repair Shops And Shoeshine Parlors
+7251,Shoe Repair Shops and Shoeshine Parlors
+7260,Funeral Service And Crematories
+7261,Funeral Service and Crematories
+7290,Miscellaneous Personal Services
+7291,Tax Return Preparation Services
+7299,Miscellaneous Personal Services
+7300,Business Services
+7310,Advertising
+7311,Advertising Agencies
+7312,Outdoor Advertising Services
+7313,Radio
+7319,Advertising
+7320,Consumer Credit Reporting Agencies
+7322,Adjustment and Collection Services
+7323,Credit Reporting Services
+7330,Mailing
+7331,Direct Mail Advertising Services
+7334,Photocopying and Duplicating Services
+7335,Commercial Photography
+7336,Commercial Art and Graphic Design
+7338,Secretarial and Court Reporting Services
+7340,Services To Dwellings And Other Buildings
+7342,Disinfecting and Pest Control Services
+7349,Building Cleaning and Maintenance Services
+7350,Miscellaneous Equipment Rental And Leasing
+7352,Medical Equipment Rental and Leasing
+7353,Heavy Construction Equipment Rental and Leasing
+7359,Equipment Rental and Leasing
+7360,Personnel Supply Services
+7361,Employment Agencies
+7363,Help Supply Services
+7370,Computer Programming
+7371,Computer Programming Services
+7372,Prepackaged Software
+7373,Computer Integrated Systems Design
+7374,Computer Processing and Data Preparation and Processing Services
+7375,Information Retrieval Services
+7376,Computer Facilities Management Services
+7377,Computer Rental and Leasing
+7378,Computer Maintenance and Repair
+7379,Computer Related Services
+7380,Miscellaneous Business Services
+7381,Detective
+7382,Security Systems Services
+7383,News Syndicates
+7384,Photofinishing Laboratories
+7389,Business Services
+7500,Automotive Repair
+7510,Automotive Rental And Leasing
+7513,Truck Rental and Leasing
+7514,Passenger Car Rental
+7515,Passenger Car Leasing
+7519,Utility Trailer and Recreational Vehicle Rental
+7520,Automobile Parking
+7521,Automobile Parking
+7530,Automotive Repair Shops
+7533,Automotive Exhaust System Repair Shops
+7534,Tire Retreading and Repair Shops
+7536,Automotive Glass Replacement Shops
+7537,Automotive Transmission Repair Shops
+7538,General Automotive Repair Shops
+7539,Automotive Repair Shops
+7540,Automotive Services
+7542,Carwashes
+7549,Automotive Services
+7600,Miscellaneous Repair Services
+7620,Electrical Repair Shops
+7622,Radio and Television Repair Shops
+7623,Refrigeration and Air-Conditioning Service and Repair Shops
+7629,Electrical and Electronic Repair Shops
+7640,Reupholstery And Furniture Repair
+7641,Reupholstery and Furniture Repair
+7690,Miscellaneous Repair Shops And Related Services
+7692,Welding Repair
+7694,Armature Rewinding Shops
+7699,Repair Shops and Related Services
+7800,Motion Pictures
+7810,Motion Picture Production And Allied Services
+7812,Motion Picture and Video Tape Production
+7819,Services Allied to Motion Picture Production
+7820,Motion Picture Distribution And Allied Services
+7822,Motion Picture and Video Tape Distribution
+7829,Services Allied to Motion Picture Distribution
+7830,Motion Picture Theaters
+7832,Motion Picture Theaters
+7833,Drive-In Motion Picture Theaters
+7840,Video Tape Rental
+7841,Video Tape Rental
+7900,Amusement And Recreation Services
+7910,Dance Studios
+7911,Dance Studios
+7920,Theatrical Producers (except Motion Picture)
+7922,Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services
+7929,Bands
+7930,Bowling Centers
+7933,Bowling Centers
+7940,Commercial Sports
+7941,Professional Sports Clubs and Promoters
+7948,Racing
+7990,Miscellaneous Amusement And Recreation
+7991,Physical Fitness Facilities
+7992,Public Golf Courses
+7993,Coin-Operated Amusement Devices
+7996,Amusement Parks
+7997,Membership Sports and Recreation Clubs
+7999,Amusement and Recreation Services
+8000,Health Services
+8010,Offices And Clinics Of Doctors Of Medicine
+8011,Offices and Clinics of Doctors of Medicine
+8020,Offices And Clinics Of Dentists
+8021,Offices and Clinics of Dentists
+8030,Offices And Clinics Of Doctors Of Osteopathy
+8031,Offices and Clinics of Doctors of Osteopathy
+8040,Offices And Clinics Of Other Health Practitioners
+8041,Offices and Clinics of Chiropractors
+8042,Offices and Clinics of Optometrists
+8043,Offices and Clinics of Podiatrists
+8049,Offices and Clinics of Health Practitioners
+8050,Nursing And Personal Care Facilities
+8051,Skilled Nursing Care Facilities
+8052,Intermediate Care Facilities
+8059,Nursing and Personal Care Facilities
+8060,Hospitals
+8062,General Medical and Surgical Hospitals
+8063,Psychiatric Hospitals
+8069,Specialty Hospitals
+8070,Medical And Dental Laboratories
+8071,Medical Laboratories
+8072,Dental Laboratories
+8080,Home Health Care Services
+8082,Home Health Care Services
+8090,Miscellaneous Health And Allied Services
+8092,Kidney Dialysis Centers
+8093,Specialty Outpatient Facilities
+8099,Health and Allied Services
+8100,Legal Services
+8110,Legal Services
+8111,Legal Services
+8200,Educational Services
+8210,Elementary And Secondary Schools
+8211,Elementary and Secondary Schools
+8220,Colleges
+8221,Colleges
+8222,Junior Colleges and Technical Institutes
+8230,Libraries
+8231,Libraries
+8240,Vocational Schools
+8243,Data Processing Schools
+8244,Business and Secretarial Schools
+8249,Vocational Schools
+8290,Schools And Educational Services
+8299,Schools and Educational Services
+8300,Social Services
+8320,Individual And Family Social Services
+8322,Individual and Family Social Services
+8330,Job Training And Vocational Rehabilitation
+8331,Job Training and Vocational Rehabilitation Services
+8350,Child Day Care Services
+8351,Child Day Care Services
+8360,Residential Care
+8361,Residential Care
+8390,Social Services
+8399,Social Services
+8400,Museums
+8410,Museums And Art Galleries
+8412,Museums and Art Galleries
+8420,Arboreta And Botanical Or Zoological Gardens
+8422,Arboreta and Botanical or Zoological Gardens
+8600,Membership Organizations
+8610,Business Associations
+8611,Business Associations
+8620,Professional Membership Organizations
+8621,Professional Membership Organizations
+8630,Labor Unions And Similar Labor Organizations
+8631,Labor Unions and Similar Labor Organizations
+8640,Civic
+8641,Civic
+8650,Political Organizations
+8651,Political Organizations
+8660,Religious Organizations
+8661,Religious Organizations
+8690,Membership Organizations
+8699,Membership Organizations
+8700,Engineering
+8710,Engineering
+8711,Engineering Services
+8712,Architectural Services
+8713,Surveying Services
+8720,Accounting
+8721,Accounting
+8730,Research
+8731,Commercial Physical and Biological Research
+8732,Commercial Economic
+8733,Noncommercial Research Organizations
+8734,Testing Laboratories
+8740,Management And Public Relations Services
+8741,Management Services
+8742,Management Consulting Services
+8743,Public Relations Services
+8744,Facilities Support Management Services
+8748,Business Consulting Services
+8800,Private Households
+8810,Private Households
+8811,Private Households
+8900,Miscellaneous Services
+8990,Miscellaneous Services
+8999,Services
+9100,Executive
+9110,Executive Offices
+9111,Executive Offices
+9120,Legislative Bodies
+9121,Legislative Bodies
+9130,Executive And Legislative Offices Combined
+9131,Executive and Legislative Offices Combined
+9190,General Government
+9199,General Government
+9200,Justice
+9210,Courts
+9211,Courts
+9220,Public Order And Safety
+9221,Police Protection
+9222,Legal Counsel and Prosecution
+9223,Correctional Institutions
+9224,Fire Protection
+9229,Public Order and Safety
+9300,Public Finance
+9310,Public Finance
+9311,Public Finance
+9400,Administration Of Human Resource Programs
+9410,Administration Of Educational Programs
+9411,Administration of Educational Programs
+9430,Administration Of Public Health Programs
+9431,Administration of Public Health Programs
+9440,Administration Of Social
+9441,Administration of Social
+9450,Administration Of Veteran&#39;s Affairs
+9451,Administration of Veterans' Affairs
+9500,Administration Of Environmental Quality And Housing Programs
+9510,Administration Of Environmental Quality
+9511,Air and Water Resource and Solid Waste Management
+9512,Land
+9530,Administration Of Housing And Urban
+9531,Administration of Housing Programs
+9532,Administration of Urban Planning and Community and Rural Development
+9600,Administration Of Economic Programs
+9610,Administration Of General Economic Programs
+9611,Administration of General Economic Programs
+9620,Regulation And Administration Of Transportation
+9621,Regulation and Administration of Transportation Programs
+9630,Regulation And Administration Of
+9631,Regulation and Administration of Communications
+9640,Regulation Of Agricultural Marketing And
+9641,Regulation of Agricultural Marketing and Commodities
+9650,Regulation
+9651,Regulation
+9660,Space Research And Technology
+9661,Space and Research and Technology
+9700,National Security And International Affairs
+9710,National Security
+9711,National Security
+9720,International Affairs
+9721,International Affairs
+9900,Nonclassifiable Establishments
+9990,Nonclassifiable Establishments
+9999,Nonclassifiable Establishments
